@@ -20,4 +20,6 @@ export const SomeComponent = () => (
     </View>
   </View>
 )
+
+// We do not know why this component exists. We do not know why this was built. We do not know why this documentation is imcomplete. We do not know when I'll be diligent enough to finish this. We only know that day is not this day.
 ```
