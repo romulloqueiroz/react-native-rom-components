@@ -1,6 +1,6 @@
 {
   "name": "react-native-rom-components",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "My customized components I use on most projects. ",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
