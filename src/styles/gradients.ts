@@ -1,0 +1,31 @@
+import { colors } from './colors';
+
+export type GradientsType = typeof gradients;
+export const gradients = {
+  green: [colors.green1, colors.green2],
+  yellow: [colors.yellow1, colors.yellow2],
+  red: [colors.red1, colors.red2],
+  purple: [colors.purple1, colors.purple2],
+  orange: [colors.orange1, colors.orange2],
+  blue: [colors.blue1, colors.blue2],
+  pink: [colors.pink1, colors.pink2],
+  turquoise: [colors.turquoise1, colors.turquoise2],
+  lavender: [colors.lavender1, colors.lavender2],
+  teal: [colors.teal1, colors.teal2],
+  coral: [colors.coral1, colors.coral2],
+  navy: [colors.navy1, colors.navy2],
+  mustard: [colors.mustard1, colors.mustard2],
+  gray: [colors.gray1, colors.gray2],
+  mauve: [colors.mauve1, colors.mauve2],
+  olive: [colors.olive1, colors.olive2],
+  midnight: [colors.midnight1, colors.midnight2],
+  steel: [colors.steel1, colors.steel2],
+  maroon: [colors.maroon1, colors.maroon2],
+  gold: [colors.gold1, colors.gold2],
+  crimson: [colors.crimson1, colors.crimson2],
+  indigo: [colors.indigo1, colors.indigo2],
+  sand: [colors.sand1, colors.sand2],
+  salmon: [colors.salmon1, colors.salmon2],
+  peach: [colors.peach1, colors.peach2],
+  moss: [colors.moss1, colors.moss2],
+};
